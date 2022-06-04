@@ -1,4 +1,4 @@
-import { Box, Grid, GridItem, Image, Stack,Text } from "@chakra-ui/react";
+import { Box, Button, Grid, GridItem, Image, Stack,Text } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 
 const Shoes = () => {
@@ -30,6 +30,9 @@ const Shoes = () => {
               </Stack>
               <Stack spacing={3}>
                 <Text fontSize="1xl"> {d.price}</Text>
+              </Stack>
+              <Stack >
+              <Button width='100%'>Add to Cart</Button>
               </Stack>
             </Box>
           </GridItem>

@@ -8,6 +8,8 @@ import Home from './components/Home';
 import Men from './components/Men';
 import Navbar from './components/Navbar';
 import Women from './components/Women';
+import Footer from './components/Footer';
+import FAQ from './components/FAQ';
 
 function App() {
   return (
@@ -20,7 +22,9 @@ function App() {
         <Route path="/women" element={<Women/>}/>
         <Route path="/men" element={<Men/>}/>
         <Route path="/shoes" element={<Shoes/>}/>
+        <Route path="/faq" element={<FAQ/>}/>
       </Routes>
+      <Footer/>
     </div>
   );
 }

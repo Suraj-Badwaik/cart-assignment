@@ -77,8 +77,13 @@ const Navbar = () => {
           <Link to="/contact">Contact Us</Link>
         </Button>
       </Stack>
+      <Stack direction="row" spacing={4} align="center">
+        <Button color="black" colorScheme="teal" variant="ghost">
+          <Link to="/faq">FAQ</Link>
+        </Button>
+      </Stack>
         <Box boxSize="50px" cursor="pointer">
-          <Image  src="https://o.remove.bg/downloads/30ecc555-aa65-4b6f-ab26-d20ed9e45906/images-removebg-preview.png" />
+          <Image  src="https://cdn-icons-png.flaticon.com/512/2331/2331970.png" />
         </Box>
     </div>
   );

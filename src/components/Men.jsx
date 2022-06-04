@@ -1,4 +1,13 @@
-import { Box, Grid, GridItem, Image, Stack,Text } from "@chakra-ui/react";
+import {
+  Box,
+  Button,
+  Grid,
+  GridItem,
+  Image,
+  Stack,
+  Text,
+  WrapItem,
+} from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 
 const Men = () => {
@@ -22,14 +31,17 @@ const Men = () => {
     <div className="Grid">
       <Grid templateColumns="repeat(5, 1fr)" templateRows="auto" gap={6}>
         {menData.map((d) => (
-          <GridItem key={d.articleCode}>
-            <Box boxSize="s">
+          <GridItem key={d.articleCode} >
+            <Box boxSize="s" >
               <Image src={d.image[0].src} />
               <Stack spacing={3}>
                 <Text fontSize="2xl"> {d.title}</Text>
               </Stack>
               <Stack spacing={3}>
                 <Text fontSize="1xl"> {d.price}</Text>
+              </Stack>
+              <Stack >
+              <Button width='100%'>Add to Cart</Button>
               </Stack>
             </Box>
           </GridItem>

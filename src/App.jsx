@@ -10,6 +10,7 @@ import Navbar from './components/Navbar';
 import Women from './components/Women';
 import Footer from './components/Footer';
 import FAQ from './components/FAQ';
+import Product from './components/Product';
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
         <Route path='/about' element={<About/>} />
         <Route path='/Contact' element={<Contact/>} />
         <Route path="/women" element={<Women/>}/>
-        <Route path="/men" element={<Men/>}/>
+        <Route path="/Men" element={<Men/>}/>
+        <Route path='/Men/:articleCode' element={<Product/>}/>
         <Route path="/shoes" element={<Shoes/>}/>
         <Route path="/faq" element={<FAQ/>}/>
       </Routes>

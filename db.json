@@ -1,0 +1,86 @@
+{
+  "Men": [
+    {
+      "articleCode": 1,
+      "title": "5-pack Slim Fit T-shirts",
+      "category": "ladies_sport_sportaccessories",
+      "image": 
+           "//lp2.hm.com/hmgoepprod?set=source[/ca/20/ca20ea5cb8d59927076876416b70c847c96758b6.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+      "price": "Rs.2,299.00",
+      "brandName": "H&M"
+    },
+    {
+      "articleCode": 2,
+      "title": "Muscle Fit Piqué polo shirt",
+      "category": "MEN_TSHIRTSTANKS_POLO",
+      "image":"//lp2.hm.com/hmgoepprod?set=source[/95/50/9550c0a39ae13c5bacb1bcdd558f336b75060db4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+      "price": "Rs.1,299.00",
+      "brandName": "H&M"
+    },
+    {
+      "articleCode": 3,
+      "title": "Relaxed Fit Cotton T-shirt",
+      "category": "ladies_sport_sportaccessories",
+      "image":
+         "//lp2.hm.com/hmgoepprod?set=source[/bf/ef/bfef1a1bbf055a98054f7f7e0a48d3ea93fee7a7.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+      "price": "Rs.799.00",
+      "brandName": "H&M"
+    },
+    {
+      "articleCode": 4,
+      "title": "Regular Fit Round-neck T-shirt",
+      "category": "ladies_sport_sportaccessories",
+      "image": "//lp2.hm.com/hmgoepprod?set=source[/69/fd/69fd6e959cfe0379241af7e23622a34e70b38270.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+      "price": "Rs.399.00",
+      "brandName": "H&M"
+    },
+    {
+      "articleCode": 5,
+      "title": "5-pack Slim Fit T-shirts",
+      "category": "ladies_sport_sportaccessories",
+      "image":"//lp2.hm.com/hmgoepprod?set=source[/61/f9/61f9ec7ee2ddf793680b60e1a57dc1ec00b3104e.jpg],origin[dam],category[men_tshirtstanks_shortsleeve],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+      "price": "Rs.2,299.00",
+      "brandName": "H&M"
+    },
+    {
+      "articleCode": 6,
+      "title": "Slim Fit Polo shirt",
+      "category": "MEN_TSHIRTSTANKS_POLO",
+      "image": "//lp2.hm.com/hmgoepprod?set=source[/8c/a5/8ca5571df1f035a7b0b0d0912c8215778b9aacc7.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+      "price": "Rs.799.00",
+      "brandName": "H&M"
+    },
+    {
+      "articleCode": 7,
+      "title": "Relaxed Fit T-shirt",
+      "category": "ladies_sport_sportaccessories",
+      "image": "//lp2.hm.com/hmgoepprod?set=source[/06/01/0601887066c8bd35af70192131cb09f5dfe0cda0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+      "price": "Rs.799.00",
+      "brandName": "H&M"
+    },
+    {
+      "articleCode": 8,
+      "title": "Regular Fit Round-neck T-shirt",
+      "category": "ladies_sport_sportaccessories",
+      "image":"//lp2.hm.com/hmgoepprod?set=source[/75/7f/757f621c29d846893f8d889c0861dbf61eea2648.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+      "price": "Rs.399.00",
+      "brandName": "H&M"
+    },
+    {
+      "articleCode": 9,
+      "title": "Regular Fit Round-neck T-shirt",
+      "category": "ladies_sport_sportaccessories",
+      "image": "//lp2.hm.com/hmgoepprod?set=source[/4e/e5/4ee515d260969c2b37141250059e835dcbcb146a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+      "price": "Rs.399.00",
+      "brandName": "H&M"
+    },
+    {
+      "articleCode": 10,
+      "title": "Oversized Fit Cotton T-shirt",
+      "category": "ladies_sport_sportaccessories",
+      "image": "//lp2.hm.com/hmgoepprod?set=source[/08/0c/080cbc6b5ca2042facce6718ee5fe3a3e6151c5f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/style]",
+      "price": "Rs.1,299.00",
+      "brandName": "H&M"
+    }
+  ]
+}

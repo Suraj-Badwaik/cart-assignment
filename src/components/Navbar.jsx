@@ -55,7 +55,7 @@ const Navbar = () => {
               mr="12px"
             />
             <span>
-              <Link to="/men">Men</Link>
+              <Link to="/Men">Men</Link>
             </span>
           </MenuItem>
           <MenuItem minH="40px">
